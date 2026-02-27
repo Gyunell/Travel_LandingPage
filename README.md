@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm **Gunel** (˶ᵔᗜᵔ˶)ﾉﾞ. For this project, I wanted to create a digital space that feels as "breezy" and aesthetic as a real vacation, while maintaining high technical standards for performance and responsiveness. (*ᵕᴗᵕ)⁾⁾
 
-**🔗 [Take a look at the Live Demo!](https://gyunell.github.io/TravelProject/)**
+**🔗 [Take a look at the Live Demo!](https://gyunell.github.io/Travel_LandingPage/)**
 
 ---
 
